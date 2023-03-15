@@ -7,6 +7,7 @@ Contém um modelo de estrutura de arquivos e scripts para executar o Terraform e
 
 
 **/main** - Arquivos da estrutura principal.
+
 **/modules** - Módulos locais.
 
 > Cada novo módulo deve ser inserido numa pasta dentro de modules.
